@@ -13,14 +13,15 @@ namespace MyRestService.Controllers
             public string Surname { get; set; }
             public string Address { get; set; }
             public string EmployeeType { get; set; }
+            public string Gender { get; set; }
         }
 
         // Sample list of employees
         private static readonly List<Employee> SampleEmployees = new List<Employee>
         {
-            new Employee { Name = "Alice", Surname = "Smith", Address = "123 Main St", EmployeeType = "Manager" },
-            new Employee { Name = "Bob", Surname = "Johnson", Address = "456 Oak Ave", EmployeeType = "Developer" },
-            new Employee { Name = "Charlie", Surname = "Brown", Address = "789 Pine Rd", EmployeeType = "HR" }
+            new Employee { Name = "Alice", Surname = "Smith", Address = "123 Main St", EmployeeType = "Manager", Gender = "Female" },
+            new Employee { Name = "Bob", Surname = "Johnson", Address = "456 Oak Ave", EmployeeType = "Developer", Gender = "Male" },
+            new Employee { Name = "Charlie", Surname = "Brown", Address = "789 Pine Rd", EmployeeType = "HR", Gender = "Non-binary" }
         };
 
         [HttpGet]
