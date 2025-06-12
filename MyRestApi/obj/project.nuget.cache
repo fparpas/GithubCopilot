@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "e1Bww8mHNxA=",
+  "dgSpecHash": "msxEwuYn46eLufY8tiMx2bJY9zMOeT9/LzjTqEWx8td4+jL7N41oZkVDHYaIdUWlQiZr8ZdhjuHBPaH5WVSvhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phanisparpas.MIDDLEEAST\\source\\repos\\GithubCopilot\\MyRestApi\\MyRestApi.csproj",
+  "projectFilePath": "/home/runner/work/GithubCopilot/GithubCopilot/MyRestApi/MyRestApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\phanisparpas.MIDDLEEAST\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "C:\\Users\\phanisparpas.MIDDLEEAST\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "/home/runner/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
